@@ -20,7 +20,6 @@
   justify-content: center;
   color: whitesmoke;
   font-size: 100px;
-  border-radius: 30px;
 }
 .child::after {
   display: flex;
