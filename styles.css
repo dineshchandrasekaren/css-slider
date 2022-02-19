@@ -9,8 +9,6 @@
   scrollbar-width: 0;
   scroll-snap-type: x mandatory;
   height: 100vh;
-  padding: 2rem;
-  gap: 3rem;
 }
 
 .child {
